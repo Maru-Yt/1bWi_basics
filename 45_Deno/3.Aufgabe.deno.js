@@ -8,5 +8,5 @@ console.log("The answer is zero");
 } else if (answer == 22 && answer >= 0) 
 console.log("The answer is 22 and positive");
 else if (answer > 0) {
-console.log("The answer is positive and btu not true");
+console.log("The answer is positive and but not true");
 }
