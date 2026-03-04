@@ -1,4 +1,5 @@
 let arr = ["Schere", "Stein", "Papier"];
+
 let userInput = prompt("Schere, Stein, Papier?");
 let userChoice = arr.indexOf(userInput);
 let computerChoice = Math.floor(Math.random() * 3);
@@ -15,3 +16,4 @@ if (userChoice === -1) {
   console.log("Computer gewinnt!");
 } else {
   console.log("Spieler gewinnt!");
+}
