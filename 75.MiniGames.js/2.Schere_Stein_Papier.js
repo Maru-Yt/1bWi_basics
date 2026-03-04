@@ -15,4 +15,3 @@ if (userChoice === -1) {
   console.log("Computer gewinnt!");
 } else {
   console.log("Spieler gewinnt!");
-}
