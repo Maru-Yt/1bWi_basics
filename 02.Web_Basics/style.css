@@ -1,1 +1,7 @@
-.title 
+.Title
+{
+    font-size: 3rem;
+    color: black;
+    padding: 67px;
+    text-align: center;
+}
