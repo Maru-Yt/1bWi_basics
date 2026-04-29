@@ -1,0 +1,9 @@
+.header {
+    height: 100px;
+    background-color: #acacac;
+}
+.submenu {
+   padding:  20px;
+   flex-basis: space-between;
+   justify-content: space-between;
+}
