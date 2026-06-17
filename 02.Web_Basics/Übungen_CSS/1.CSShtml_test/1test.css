@@ -22,3 +22,20 @@
     }
    
 }
+.purple {
+    background-color: purple;
+    height: 50px;
+    width: 50px;
+    right: 0px;
+    top: 0px;
+    position: fixed;
+    
+}
+.footer {
+    background-color: yellow;
+    height: 75px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
